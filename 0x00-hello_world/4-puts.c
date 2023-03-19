@@ -1,9 +1,13 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+
 /**
-* main - A program that prints a line with puts function
-* Return : 0 (Succes)
-*/
-int main(void)
+ * main - puts
+ * Return: 0 if the program finish whitout errors
+ */
+int	main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
-return (0); }
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
+}

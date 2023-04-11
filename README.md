@@ -1,1 +1,1 @@
-This is for c programming
+read me for 0x0A argc argv
